@@ -1,0 +1,16 @@
+input{Color:rgb(0, 0, 0);
+    Background-color:rgb(203, 118, 118);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: brown;
+    
+    
+}
+ body{background-color: lightsalmon;
+    font-size: 20px;
+    font-weight: bold;
+}   
+
